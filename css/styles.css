@@ -142,6 +142,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: auto;
 }
 .hero-bg {
 }
@@ -481,10 +482,8 @@ img {
   padding-bottom: 32px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
-.services-border:hover {
-  border-left: 0.5px solid #f4f4fd;
-  border-right: 0.5px solid #f4f4fd;
-  border-bottom: 0.5px solid #f4f4fd;
+.services-item:hover {
+  border: 0.5px solid #f4f4fd;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
